@@ -1,6 +1,0 @@
-﻿pandas 
-tensorflow 
-mlflow 
-matplotlib 
-scikit-learn
-numpy
