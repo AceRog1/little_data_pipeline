@@ -266,6 +266,8 @@ Enlace: [Repositorio](https://github.com/hitchon1/setup-airflow-ec2), logramos s
 - Conflictos de Permisos con Unity Catalog: Durante la fase de escritura, aparecieron errores de permisos como “Public DBFS root is disabled”. Esto se debió a Unity Catalog, que bloquea el acceso directo a las rutas de DBFS. La solución fue adoptar el uso de “Volumes” de Unity Catalog para gestionar los datos y los checkpoints.
 - Integración del Modelo LSTM en el Pipeline de AWS: A pesar de haber desarrollado y validado exitosamente el modelo LSTM basado en PyTorch en un entorno de desarrollo, surgieron dificultades significativas al intentar integrarlo en el pipeline automatizado en AWS y no se logró la adaptación del modelo para que fuera compatible con el flujo de datos orquestado. Debido a estas complejidades, se decidió posponer su despliegue final.
 
+## Análisis de la visualización en tiempo real
+
 ![Vista general](imagenes/visual1.png)
 ![Vista general](imagenes/visual2.png)
 
