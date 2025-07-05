@@ -138,7 +138,7 @@ Las transformaciones se hacen en Databricks y en Power BI solo se enfocan en vis
 
 
 
-## Arquitectura del proyecto (tanto un diagrama como descripción)
+## Arquitectura del proyecto
 ![Vista general](imagenes/pipeline_little_data.svg)
 
 ### Ingesta de Datos (Kafka)
