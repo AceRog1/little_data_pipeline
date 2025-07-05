@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/LENOVO/Desktop/lstm_v2/mlruns/232738480599888377/ef2fb92584c6492c989aed535ec99d3f/artifacts
+end_time: 1751536046292
+entry_point_name: ''
+experiment_id: '232738480599888377'
+lifecycle_stage: active
+run_id: ef2fb92584c6492c989aed535ec99d3f
+run_name: grid_run_03_hs32_do0.2_lr0.0005_stackedFalse
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751535907965
+status: 3
+tags: []
+user_id: LENOVO

@@ -1,0 +1,6 @@
+﻿pandas
+numpy
+tqdm
+pyarrow
+torch
+mlflow

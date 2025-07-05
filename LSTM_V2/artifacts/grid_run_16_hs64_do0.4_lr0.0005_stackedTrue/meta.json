@@ -1,0 +1,1 @@
+{"lookback": 6, "horizon": 3, "n_features": 5, "features_used": ["congestion_count", "mean_velocity", "mean_altitude", "hour_sin", "hour_cos"], "target_column": "congestion_count"}
