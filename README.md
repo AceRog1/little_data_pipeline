@@ -1,6 +1,13 @@
 
 # Detección de tráfico aéreo en Sudamérica
 
+### Intregrantes: 
+* Antúnez Alfaro, Max Bryam
+* Castro Vergara, Rodrigo Alonso
+* Escalante Ccoyllo,  Nahía Alejandra
+* Paico Reina, Aleksander Fabrizio
+* Rojas Urquizo, Andrés Alejandro
+
 ## Introducción y justificación del problema a resolver
 El aumento constante del tráfico aéreo mundial ha complicado la gestión del espacio aéreo, creando desafíos para la seguridad y eficiencia. Un problema clave es identificar a tiempo las zonas con alta congestión, donde muchas aeronaves coinciden o transitan simultáneamente. Este proyecto propone un sistema en tiempo real para detectar zonas de congestión aérea en Sudamérica, ayudando a controladores y aeropuertos a visualizar áreas con mayor densidad de vuelos. Mediante análisis de Big data y mapas, busca optimizar rutas y reducir riesgos. 
 
